@@ -1,50 +1,47 @@
-# lshi0848_9103_tut1
-My first repository for IDEA9103
+# Quiz-8
 
-This is my first local change to the repo!
+## Part 1: Imaging Technique Inspiration
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+### Imaging Technique: File-format Corruption / Databending
 
-**BoldText** or __Bold Text__
-*Italic Text* or _Italic Text_
+**Example:** Rosa Menkman — *A Vernacular of File Formats*  
+**Source:** [A Vernacular of File Formats](https://beyondresolution.info/A-Vernacular-of-File-Formats)
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+![Screenshot 1](images/53002273334_9a5a6f60c7_o.jpg)
+![Screenshot 2](images/53262350204_c94c2f9b62_o.png)
 
-* Item 1
-* Item 2
-  * Subitem 2.1
-  * Subitem 2.2
+Rosa Menkman’s *A Vernacular of File Formats* inspires my project through its use of file-format corruption and compression artifacts. I am interested in how the same portrait is transformed by different digital errors: pixel blocks, broken colour channels, scanning lines, and fragmented text-like patterns. I would like to incorporate this unstable, damaged-image aesthetic to make visuals feel less polished and more technological. This technique is beneficial because it turns digital failure into a visual language, creating strong texture, motion potential, and a sense of hidden systems becoming visible.
 
-1. First item
-2. Second item
-3. Third item
+## Part 2: Coding Technique Exploration
 
-Text inbetween
+### Coding Technique: Pixel Sorting / Pixel Manipulation
 
-1. First item
-1. Second item
-1. Third item
+**Example implementation:** [Kim Asendorf — ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)  
+**Example code:** [ASDFPixelSort.pde](https://github.com/kimasendorf/ASDFPixelSort/blob/master/ASDFPixelSort.pde)
 
-[Google Homepage](https://www.google.com/)
+![Pixel Sorting Example](https://raw.githubusercontent.com/kimasendorf/ASDFPixelSort/master/mountains_1.jpg)
 
-![An image of a cat](https://placecats.com/300/200)
+Pixel sorting is a coding technique that rearranges selected pixels in an image according to brightness, colour, or threshold values. Kim Asendorf’s *ASDFPixelSort* demonstrates how code can stretch, smear, and reorganise parts of an image to create digital distortion. This technique could help me achieve a similar glitch aesthetic to Rosa Menkman’s work by making image data appear unstable and partially corrupted. It would be useful for creating broken textures, horizontal scanning effects, and a sense that the image is being damaged or reconstructed by hidden digital processes.# Quiz-8
 
-![An image of Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+## Part 1: Imaging Technique Inspiration
 
-Make sure to run `setup()` first.
+### Imaging Technique: File-format Corruption / Databending
 
-```
-function helloWorld() {
-    console.log("Hello World!");
-}
-```
+**Example:** Rosa Menkman — *A Vernacular of File Formats*  
+**Source:** [A Vernacular of File Formats](https://beyondresolution.info/A-Vernacular-of-File-Formats)
 
-> This is a quote from a book.
+![Screenshot 1](images/53002273334_9a5a6f60c7_o.jpg)
+![Screenshot 2](images/53262350204_c94c2f9b62_o.png)
+
+Rosa Menkman’s *A Vernacular of File Formats* inspires my project through its use of file-format corruption and compression artifacts. I am interested in how the same portrait is transformed by different digital errors: pixel blocks, broken colour channels, scanning lines, and fragmented text-like patterns. I would like to incorporate this unstable, damaged-image aesthetic to make visuals feel less polished and more technological. This technique is beneficial because it turns digital failure into a visual language, creating strong texture, motion potential, and a sense of hidden systems becoming visible.
+
+## Part 2: Coding Technique Exploration
+
+### Coding Technique: Pixel Sorting / Pixel Manipulation
+
+**Example implementation:** [Kim Asendorf — ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)  
+**Example code:** [ASDFPixelSort.pde](https://github.com/kimasendorf/ASDFPixelSort/blob/master/ASDFPixelSort.pde)
+
+![Pixel Sorting Example](https://raw.githubusercontent.com/kimasendorf/ASDFPixelSort/master/mountains_1.jpg)
+
+Pixel sorting is a coding technique that rearranges selected pixels in an image according to brightness, colour, or threshold values. Kim Asendorf’s *ASDFPixelSort* demonstrates how code can stretch, smear, and reorganise parts of an image to create digital distortion. This technique could help me achieve a similar glitch aesthetic to Rosa Menkman’s work by making image data appear unstable and partially corrupted. It would be useful for creating broken textures, horizontal scanning effects, and a sense that the image is being damaged or reconstructed by hidden digital processes.
