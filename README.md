@@ -39,9 +39,9 @@ Rosa Menkman’s *A Vernacular of File Formats* inspires my project through its 
 
 ### Coding Technique: Pixel Sorting / Pixel Manipulation
 
+![Pixel Sorting Example](https://raw.githubusercontent.com/kimasendorf/ASDFPixelSort/master/mountains_1.jpg)
+
 **Example implementation:** [Kim Asendorf — ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)  
 **Example code:** [ASDFPixelSort.pde](https://github.com/kimasendorf/ASDFPixelSort/blob/master/ASDFPixelSort.pde)
-
-![Pixel Sorting Example](https://raw.githubusercontent.com/kimasendorf/ASDFPixelSort/master/mountains_1.jpg)
 
 Pixel sorting is a coding technique that rearranges selected pixels in an image according to brightness, colour, or threshold values. Kim Asendorf’s *ASDFPixelSort* demonstrates how code can stretch, smear, and reorganise parts of an image to create digital distortion. This technique could help me achieve a similar glitch aesthetic to Rosa Menkman’s work by making image data appear unstable and partially corrupted. It would be useful for creating broken textures, horizontal scanning effects, and a sense that the image is being damaged or reconstructed by hidden digital processes.
